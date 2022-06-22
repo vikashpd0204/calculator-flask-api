@@ -1,0 +1,39 @@
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  padding: 10px;
+  background-color: mediumaquamarine;
+  text-align: center;
+  font-size: 70px;
+  border-radius: 90px ;
+
+}
+
+form {
+
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  font-size: 30px;
+  
+
+}
+
+form, input{
+  font-weight: bold;
+  color: red;
+  text-align: center;
+
+}
+
+div h1:hover  {
+  color: red;
+}
+
+form, select {
+  font-weight: bold;
+  color: red;
+ 
+}

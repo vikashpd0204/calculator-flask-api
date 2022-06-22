@@ -1,0 +1,26 @@
+body {
+    background-color: skyblue;
+    text-align: center;
+       
+
+  }
+
+.table-users {
+    padding: 20px;
+    margin: 40px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: mediumaquamarine;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 50px ;
+    
+    
+    
+  }
+
+  .header {
+
+   font-weight: bold;
+   color: red;
+  }
